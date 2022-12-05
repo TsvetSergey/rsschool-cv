@@ -23,4 +23,3 @@ I watched Bogdanchuk's course on JS on youtube. Solved 8kye problems on codewars
 #######
 English level A1. I wrote this SM with the help of a translator.
 
-![image](https://user-images.githubusercontent.com/119602417/205639149-a0ea01eb-c2d0-4123-af15-82a96229e3d0.png)
