@@ -13,3 +13,28 @@
 .posCenter {
   margin-left: 33%;
 }
+
+
+.name{
+text-align: right;
+color: rgb(3, 3, 3);
+padding: 50px 500px;
+font-weight: 400;
+
+
+}
+.cap {
+  background-color: #627686;
+  text-align: right;
+  margin: 40px;
+  padding: 20px 20px;
+}
+a {
+  color: aliceblue;
+  padding: 5px;
+}
+.me{
+  position: relative;
+  left: 500px;
+  bottom: 150px;
+}
