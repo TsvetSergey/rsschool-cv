@@ -46,13 +46,13 @@ body {
   }
 }
 .section-title {
-text-align: center;
-width: 500px;
+  text-align: center;
+  width: 500px;
 }
 
 .me {
   display:block;
-margin:auto;
+  margin:auto;
 }
 .text-about {
   text-align: center;
@@ -83,4 +83,19 @@ margin:auto;
   background-color: rgb(210, 236, 227);
   padding: 3%;
   border-radius: 50px;
+}
+
+.logo {
+  display:block;
+  margin:auto;
+  border: 200px;
+}
+
+.footer-link{
+  padding: 0 5px;
+  line-height: 50px;
+  border: 1px solid white;
+  text-align: center;
+
+  
 }
